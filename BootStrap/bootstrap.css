@@ -1,0 +1,52 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    background-image: url("../BootStrap/images/sketchbook6.jpg");
+    background-position: top;
+    box-shadow: 0 0 70px 25px blanchedalmond inset;
+}
+#opening{
+    font-size: 0.6em;
+}
+#bio{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#programs{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#blender{
+    font-size: 1.3em;
+}
+#clipstudio{
+    font-size: 1.3em;
+}
+#vr{
+    font-size: 1.3em;
+}
+.accordion-button{
+    background-color: rgb(42, 42, 42);
+    color: white;
+}
+#collapseOne{
+    background-color: rgb(255, 243, 225);
+}
+#collapseTwo{
+    background-color: rgb(255, 243, 225);
+}
+#collapseThree{
+    background-color: rgb(255, 243, 225);
+}
+
+.ddd > a > img{
+    min-width: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.ddd > a > img:hover{
+    box-shadow: 0px 0px 10px;
+}
