@@ -31,16 +31,9 @@ h1{
     background-color: rgb(42, 42, 42);
     color: white;
 }
-#collapseOne{
+#collapseOne, #collapseTwo, #collapseThree{
     background-color: rgb(255, 243, 225);
 }
-#collapseTwo{
-    background-color: rgb(255, 243, 225);
-}
-#collapseThree{
-    background-color: rgb(255, 243, 225);
-}
-
 .ddd > a > img{
     border: 2px solid black;
     border-radius: 10px;
