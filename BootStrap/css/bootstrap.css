@@ -10,13 +10,12 @@ h1{
 #opening{
     font-size: 0.6em;
 }
-#bio + span{
+br + .title{
     font-size: 1.5em;
     font-weight: bold;
 }
-#programs + span{
-    font-size: 1.5em;
-    font-weight: bold;
+h2 ~ div, #bio{
+    font-family:sans-serif;
 }
 #blender, #vr, #clipstudio{
     font-size: 1.3em;
@@ -27,6 +26,9 @@ h1{
 }
 #collapseOne, #collapseTwo, #collapseThree{
     background-color: rgb(255, 243, 225);
+}
+a[href*="#"]{
+    text-decoration: underline;
 }
 .ddd > a > img{
     border: 2px solid black;
