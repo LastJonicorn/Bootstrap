@@ -4,7 +4,7 @@ body {
 
 h1 {
   text-align: center;
-  background-image: url("../../BootStrap/images/sketchbook6.jpg");
+  background-image: url("../images/sketchbook6.jpg");
   background-position: top;
   -webkit-box-shadow: 0 0 70px 25px #fde5c1 inset;
           box-shadow: 0 0 70px 25px #fde5c1 inset;
